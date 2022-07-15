@@ -1,6 +1,3 @@
-# Desafio Github Primeiro Repositório
-Desafio de Projeto sobre Git/Github
-
 Modulo 0
 
 - Pensamento computacional
